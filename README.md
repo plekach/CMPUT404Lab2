@@ -17,9 +17,3 @@ Question 5:
 It receives a blank/empty string
 
 Question 6:
-
-
-
-proxy stuff:
-Connected by: ('127.0.0.1', 53709)
-b'GET / HTTP/1.1\nwww.google.com\n\n'  
